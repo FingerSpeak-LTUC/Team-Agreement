@@ -80,3 +80,4 @@ By followig our team agreements and work guides it is rare to have such case .
 but if this happened then the best practice would be to reach out our Instructor or one of the TA\s
 each member will adress it in his own words and we will find the best solution that serves our project goals and vision.
 
+
