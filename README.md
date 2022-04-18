@@ -12,18 +12,14 @@ This document is for  establishing our Team Agreement. This will be used as the 
 
 **Course Name: Python 401**
 
+
 **Student Names:**
 
-Moayad abu Khadra
-
-Emad Al Majdalawi 
-
-Raghad Abdulhadi 
-
-Suhaib  Ahmad 
-
-Ghaida Al Momani 
-
+- Moayad abu Khadra
+- Emad Al Majdalawi 
+- Raghad Abdulhadi 
+- Suhaib  Ahmad 
+- Ghaida Al Momani 
 
 
 Instructor: Yahya Albashar
@@ -74,6 +70,7 @@ since ew are all new to this field we want to get the best to  do the libraries
 We scheduled a daily meeitng and night meetings for those who can attend 
 then we used trello to write questions and find their answers together.
 
+
 # Conflict Plan
 
 1. What will be your group's process to resolve conflict, when it arises?
@@ -86,9 +83,11 @@ then we used trello to write questions and find their answers together.
 
 3. How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
+4. How will you raise concerns to members who are not adequately contributing? 
+
 The tasks will be divided on what we agree is the key strength for each person , and the problems will work on them together
 
-4. How will you raise concerns to members who are not adequately contributing? 
+
 
 - In our team work we did the following steps to make the plan go in a smooth way 
 * We Emphasize on having a “speak up” culture
