@@ -1,83 +1,74 @@
-# Team-Agreement
-This repo is to  establishing a Team Agreement. This will be used as the guideline for how your team will collaborate during project week.
+## Presentation Deck
 
+Presentation Deck Template that all the team will be working on.
 
+[Presentation Deck Template](https://docs.google.com/presentation/d/13hRAzckmsbfKL-CecybioWJFw-xEhrFDHBSrgQ64hXI/edit?usp=sharing)
 
-# Group Project: Team Agreement
+## Schedule practice session
 
-This document is for  establishing our Team Agreement. This will be used as the guideline for how our team will collaborate during project week.
+**Practice run of the presentation:**
 
-# TEAM CONTRACT 
+    Date:
+    Time:
+    The place/Tool: Zoom Meetings
 
+**Actual presentation:**
 
-Course Name: Python 401
+    Date:
+    Time:
+    The place/Tool: Zoom Meetings 
 
-Student Names:
-Moayad abu Khadra
-Emad Al Majdalawi 
-Raghad abdulhadi 
-Ghaida Al Momani 
+## Git Process
 
-Instructor: Yahya Albashar
+**Components of the project that lives on GitHub:**
 
+- Building the code
+- Tracking the changes
+- Innovate solutions to problems that might arise during the project
 
-Project Topic and brief description :
-Project goal :
-Project vision:
+**Share the Project Repository:**
 
+- Ask for the username of the team memeber that you're inviting as a collaborator.
+- On GitHub.com, navigate to the main page of the repository.
+- Under your repository name, click  Settings.
+- In the "Access" section of the sidebar, click  Collaborators & teams.
+- Click Invite a collaborator.
+- In the search field, start typing the name of the team member you want to invite, then click a name in the list of matches.
+- Click Add NAME to REPOSITORY.
+- The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
 
- 
-# Team Agreement requirements 
-This is our team Agreement requirements, and our established consensus on how to handle each requirement.
+**Accomplishing the features of the project will be done using Feature Branch Workflow:**
 
-# Cooperation Plan
+- The main branch stores the official release history, and the develop branch serves as an integration branch for features.
+- Develop branch will contain the complete history of the project, whereas main will contain an abridged version.
 
+**Command:**
 
+    git branch develop
+    git push -u origin develop
 
-## What are the key strengths of each person on the team?
+- Each new feature should reside in its own branch
+- Feature branches use develop as their parent branch
+- When a feature is complete, it gets merged back into develop. Features should never interact directly with main.
 
-| Member Name      | Skill Strength | Specific Activity | 
-| ----------- | ----------- |----------- |
-| Ghaida Al-Momani      |Presentation           |   Team agreement basics       |
-| Emad Almajdalawi      |Documentation     |     Work Plan    |
-| Raghad Abdulhadi      |Planning           |  Communication Plan       |
-| Moayad Abukadrah      |Scheduling            | Git Process        |
+**Creating a feature branch:**
 
+    git checkout develop
+    git checkout -b feature_branch
 
+**Merge the feature_branch into develop:**
 
+    git checkout develop
+    git merge feature_branch
 
+**During the project Pull Request review workflow will be used:**
 
-## How can you best utilize these strengths in the execution of your project?
+*Reviewing*
 
-Every person on your team is an asset,and in our team agreement we did our best to make each one of us 
-fit in his role and do what She/he likes to do, so the hard work will seem effortless.
+- All team members should oversee others work by hosting a meeting that will be planned as a review for all the pull requests.
 
-Emad is the best in planning projects and shcedling it so h 
+*Merging*
 
-while Raghad shows the best skill in the Git Process and work, Plan out what your team’s Git workflow looks like for coding tasks.
-
-Moayad is 
-
-
-
-
-## How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
-We sheduled a daily times to make meetings via zoom and discord, time will be from 10AM to 2PM daily
-and it can be extended as the work requires. Also we made sure to make suitable break time fo us all 
-. 
-
-
-## How will you raise concerns to members who are not adequately contributing?
-In our team work we did the following steps to make the plan go in a smooth way 
-* We Emphasize on having a “speak up” culture
-Many problems can be avoided if employees are encouraged to bring concerns forward early, preferably before potential violations occur. So We keep in touch in adressig each concern that occur 
-* Listening up and following up
-The most important way to encourage team membres to raise concerns is simply to take seriously those concerns that are raised. We will make sure that those who raise a complaint know you have dealt with it, and always follow up with them about the situation. When doing so, be sure to ask whether they have since experienced any retaliation.
-
-
-## How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-By followig our team agreements and work guides it is rare to have such case .
-but if this happened then the best practice would be to reach out our Instructor or one of the TA\s
-each member will adress it in his own words and we will find the best solution that serves our project goals and vision.
-
-
+- The team leader will be responsible for the merging of the PRs the process will be done during the meeting.
+- All the distributed tasks (Project Features) should be merged after checking the work with the team members during the meeting.
+- All the distributed tasks (Project Features) will be merged at the end of each working day.
