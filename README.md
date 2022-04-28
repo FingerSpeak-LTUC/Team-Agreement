@@ -156,7 +156,7 @@ Completed, this category includes cards for tasks on which we have completed wor
 
 Presentation Deck Template that all the team will be working on.
 
-[Presentation Deck Template](https://docs.google.com/presentation/d/13hRAzckmsbfKL-CecybioWJFw-xEhrFDHBSrgQ64hXI/edit?usp=sharing)
+[Presentation Deck Template](https://docs.google.com/presentation/d/12CFtlCciQDo1zeiYUOxOPT3eak_aPUI64uwJyJdhbMo/edit#slide=id.p14)
 
 ## Schedule practice session
 
